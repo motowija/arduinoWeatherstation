@@ -1,4 +1,4 @@
-# Arduino weatherstation
+# Arduino Weatherstation
 
 A station made of
 - an Arduino Nano
